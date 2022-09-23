@@ -1,5 +1,6 @@
 // Assignment Code
 var choices = [];
+
 finalChoice = [];
 
 var generateBtn = document.querySelector("#generate");
